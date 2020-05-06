@@ -8,7 +8,7 @@ local TestService = {Client = {}}
 
 
 function TestService:Start()
-	
+	print("Hi this started!")
 end
 
 
