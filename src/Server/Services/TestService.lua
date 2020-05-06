@@ -13,7 +13,7 @@ end
 
 
 function TestService:Init()
-	
+	print("Another print!")
 end
 
 
